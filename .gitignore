@@ -1,0 +1,6 @@
+bin/
+obj/
+.ipynb_checkpoints/
+*.venv/
+
+0.Intro/
